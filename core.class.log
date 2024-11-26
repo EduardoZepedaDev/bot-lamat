@@ -1,0 +1,200 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219931894332@s.whatsapp.net',
+    fromMe: false,
+    id: '3F0A5CB800A9C3BA5B0E',
+    participant: undefined
+  },
+  messageTimestamp: 1732643302,
+  pushName: 'Eduardo Zepeda',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'hola', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Eduardo Zepeda',
+  body: 'hola',
+  from: '5219931894332'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0be3ae1c-f574-4b1e-b22a-87c9a061db16',
+  keyword: 'key_8938d7d0-cab2-4b25-bc39-a45803c3e37e',
+  answer: 'Bienvenido al ChatBot de TI',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ca74b86dade48988bbe6c021158defc2'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_39d891c6-d49c-4fdc-b28d-bc0e97720a19',
+  keyword: 'ans_0be3ae1c-f574-4b1e-b22a-87c9a061db16',
+  answer: 'En que te puedo ayudar:\n' +
+    '*1*.-Contactos de TI\n' +
+    '*2*.-Enlaces de TI\n' +
+    '*3*.-Correo corporativo\n' +
+    '*4*.-Tickets\n' +
+    '*5*.-Nextcloud\n' +
+    '*6*.-Portal de requisiciones',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '45334ee4119ce303cc6bd3d876108781'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219931894332@s.whatsapp.net',
+    fromMe: false,
+    id: '3F5B33D480D29C0D9247',
+    participant: undefined
+  },
+  messageTimestamp: 1732643307,
+  pushName: 'Eduardo Zepeda',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: '1', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Eduardo Zepeda',
+  body: '1',
+  from: '5219931894332'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_7842194c-3092-4e0f-9226-7f716e916bd6',
+  keyword: 'key_e36049da-19b0-4917-8874-6c741164fdec',
+  answer: 'Juan Alberto Calderon -- *Gerente de GAF*',
+  options: {
+    media: 'https://i.ytimg.com/vi/wYJW07pgLN0/oar2.jpg?sqp=-oaymwEYCJUDENAFSFqQAgHyq4qpAwcIARUAAIhC&rs=AOn4CLAiudfkwGb2gHz08EG94AKqVndIXw',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c92585cc4dfa2285834810302c84745f'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b9623005-6486-4e19-983c-cb1c7842c1f4',
+  keyword: 'ans_7842194c-3092-4e0f-9226-7f716e916bd6',
+  answer: 'Juan Miguel Aguirre Paredes -- *Coordinador de TI* -- 📞993 190 8780',
+  options: {
+    media: 'https://intn24.lalr.co/old/Up.jpg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '82dd894a9232e59e41a3546f80a1030f'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_fca10ed8-8eb7-41ab-b5de-6c7a3393229e',
+  keyword: 'ans_b9623005-6486-4e19-983c-cb1c7842c1f4',
+  answer: 'Izamer Sanchez Perez -- *Auxiliar de TI* -- 📞993 243 7599',
+  options: {
+    media: 'https://static.wikia.nocookie.net/disney/images/e/e2/Don_Risitas.png/revision/latest?cb=20130423093527&path-prefix=es',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '24e1bc26dadaa6bc5051ed82969f5664'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d1f5ac78-386a-4b63-b2d0-95097581e4b6',
+  keyword: 'ans_fca10ed8-8eb7-41ab-b5de-6c7a3393229e',
+  answer: 'Edgar Eduardo Jimenez -- *Becario de TI* -- 📞993 277 8223',
+  options: {
+    media: 'https://www.rollingstone.com/wp-content/uploads/2020/07/Screen-Shot-2020-07-15-at-11.24.37-AM.jpg?w=910&h=511&crop=1',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '3cfc5af5f9aef9f591a949cc66271e61'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_e5ff78e2-71f2-491d-824a-c9a503d11f04',
+  keyword: 'ans_d1f5ac78-386a-4b63-b2d0-95097581e4b6',
+  answer: 'Cesar Eduardo Zepeda Melendez -- *Becario de TI* -- 📞993 189 4332',
+  options: {
+    media: 'https://img.wattpad.com/85fdf423872032e520fa1319c98c40aab069f8a6/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f41616962797a5f553372466272413d3d2d3836342e313761633162366163643335356130313135313134313232353839342e6a7067?s=fit&w=720&h=720',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '70560607b7ddf1d80ca3dfc58391f9ba'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_92655288-1d6d-4aa7-8494-cc65761a26a3',
+  keyword: 'ans_e5ff78e2-71f2-491d-824a-c9a503d11f04',
+  answer: 'Para regresar al menu, escribe *Menu*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '31c01beca544b5738271ea96c3a23b1c'
+}
